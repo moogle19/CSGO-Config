@@ -1,0 +1,1 @@
+-novid -refresh 144 -noforcemparms -noforcemaccel
